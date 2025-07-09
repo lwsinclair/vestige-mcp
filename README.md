@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/goplausible-vestige-mcp-badge.png)](https://mseep.ai/app/goplausible-vestige-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@GoPlausible/vestige-mcp)](https://smithery.ai/server/@GoPlausible/vestige-mcp)
 # Vestige MCP
 
